@@ -20,13 +20,13 @@ data "aws_iam_policy_document" "website_policy" {
       type = "AWS"
     }
     resources = [
-      "arn:aws:s3:::ppwebsite/*"
+      "arn:aws:s3:::ppwebsitestorage/*"
     ]
   }
 }
 
 resource "aws_s3_bucket" "s3Bucket" {
-     bucket = "ppwebsite"
+     bucket = "ppwebsitestorage"
      acl       = "public-read"
 
      policy = data.aws_iam_policy_document.website_policy.json
