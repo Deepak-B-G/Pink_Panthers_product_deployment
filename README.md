@@ -53,4 +53,3 @@ GitHub Pages - GitHub Pages is a static site hosting service that takes HTML, CS
 
  The Navigation  bar is unresponsive during the video runtime.
  
- HI .........
