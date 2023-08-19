@@ -18,12 +18,12 @@ Complete setup/installation instructions: A hardware with a web browser and a st
 ## How to visit the website?
 Use the below link to visit the website
 
-[https://deepak-b-g.github.io/Pink_Panthers.github.io/](http://ppwebsitestorage.s3-website.ap-south-1.amazonaws.com/)
+http://ppwebsitestorage.s3-website.ap-south-1.amazonaws.com/
 
 
 ## Development of the website.
 
-The website is primarily built on HTML, CSS, and Java Script languages.
+The website is primarily built on HTML, CSS, and JavaScript languages.
 
 HTML - The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. 
 
@@ -43,11 +43,11 @@ This website is hosted on Amazon Web Services (AWS) using Amazon S3 for storing 
 
 ## Know Bugs
 
- Our Services, Privacy Policy, Affiliate Program under Company section is still under development.
+ Our Services, Privacy Policy, and Affiliate Program under the Company section is still under development.
  
  FAQ and Contact Us under Get Help is still under development.
  
- Links to our social media sites yet to be provided.
+ Links to our social media sites are yet to be provided.
 
  The Navigation  bar is unresponsive during the video runtime.
  
