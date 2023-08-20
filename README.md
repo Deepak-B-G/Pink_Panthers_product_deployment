@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello and welcome to our website.
 This is a website that will show and guide you about Jaipur.
 
@@ -52,3 +53,6 @@ This website is hosted on Amazon Web Services (AWS) using Amazon S3 for storing 
  The Navigation  bar is unresponsive during the video runtime.
  
 
+=======
+# This repo is for the deployment
+>>>>>>> 920ff635c562ee31a470dfb71fa3a46a963ce2d8

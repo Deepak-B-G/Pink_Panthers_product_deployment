@@ -34,4 +34,8 @@ resource "aws_s3_bucket" "s3Bucket" {
    website {
        index_document = "index.html"
    }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 920ff635c562ee31a470dfb71fa3a46a963ce2d8
