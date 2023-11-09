@@ -11,14 +11,15 @@ body {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .topnav {
-    background-color: black;
-    overflow: hidden;
-    position: fixed;
-    width: 100%;
-    top: 0;
-    left: 0;
-  
-  }
+  background-color: black;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1000; /* Set a high value for z-index to ensure it's on top */
+}
+
   
   
   .topnav a {
