@@ -20,8 +20,8 @@ body {
   width: 100%;
   top: 0;
   left: 0;
-  /* z-index: 1000;
-  Set a high value for z-index to ensure it's on top */
+  z-index: 1000;
+
 }
 
 
