@@ -2,7 +2,7 @@ const uuid = require('uuid');
 const fs = require('fs');
 
 
-const numUsers = 5000;
+const numUsers = 2000;
 
 const countries = ['India', 'Australia', 'Europe', 'America'];
 const genders = ['male', 'female'];
